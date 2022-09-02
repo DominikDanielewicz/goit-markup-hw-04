@@ -161,6 +161,8 @@ pre {
   align-items: center;
   justify-content: center;
   padding: 200px 0;
+  max-width: 1600px;
+  margin: 0 auto;
 }
 
 .hero__heading pre {
@@ -333,7 +335,7 @@ pre {
 
 .footer__social-item {
   background-color: var(--social-background);
-  fill: var(--border-grey-color-V3);
+  fill: var(--white);
 }
 
 .footer__join-us {
